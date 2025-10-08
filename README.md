@@ -48,9 +48,10 @@ Peak Developer • Creator • Visionär
 
 🌍 Germany
 💻 github.com/verovsn
+
 💬 „Wieso stalkst du mich eigentlich?“ 😎
 
-📜 Lizenz
+## 📜 Lizenz
 Dieses Projekt steht unter der MIT License.
 Du darfst es frei verwenden, verändern und teilen — bitte gib Credits an VErOVSN an, wenn du es nutzt.
 
