@@ -21,30 +21,11 @@ Sie wurde gebaut, um schnell, clean und leicht anpassbar zu sein – perfekt als
 
 ---
 
-## 🧩 Projektstruktur
-
-📁 Business-XCard/
-│
-├── index.html # Hauptseite
-├── style.css # Styling
-├── assets/ # Icons, Profilbild etc.
-│ ├── verovsn.png
-│ ├── github-icon.png
-│ ├── linkedin-icon.png
-│ ├── website-icon.png
-│ └── mapmarker-icon.png
-└── README.md
-
-yaml
-Code kopieren
-
----
-
 ## 🛠️ Verwendung
 
 1. **Repository klonen**
    ```bash
-   git clone https://github.com/VErOVSN/Business-XCard.git
+   git clone https://github.com/verovsn/Business-XCard.git
 Datei öffnen
 Öffne einfach index.html im Browser – fertig ✅
 
@@ -55,18 +36,18 @@ Anpassen
 Passe Farben & Hintergründe in style.css an
 
 🎨 Beispiel: Hintergrundfarbe ändern
-css
-Code kopieren
-body {
+
+ ``body {
     background: linear-gradient(160deg, #1e1e2e, #0f172a);
-}
+} ``
+
 👤 Über den Entwickler
 VErOVSN
 
 Peak Developer • Creator • Visionär
 
 🌍 Germany
-💻 github.com/VErOVSN
+💻 github.com/verovsn
 💬 „Wieso stalkst du mich eigentlich?“ 😎
 
 📜 Lizenz
