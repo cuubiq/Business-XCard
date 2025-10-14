@@ -48,6 +48,7 @@ Peak Developer • Creator • Visionär
 
 🌍 Germany
 💻 github.com/verovsn
+https://verovision.eu/
 
 💬 „Wieso stalkst du mich eigentlich?“ 😎
 
