@@ -1,59 +1,120 @@
-# 💼 Business XCard – by VErOVSN
+# Business XCard
 
-**Business XCard** ist eine minimalistische, moderne digitale Visitenkarte, entwickelt von **VErOVSN**.  
-Sie wurde gebaut, um schnell, clean und leicht anpassbar zu sein – perfekt als kleine persönliche Webkarte oder Portfolio-Link.
+A minimal and modern digital business card built for developers, creators, and professionals.
 
----
+Business XCard provides a simple and lightweight way to create a personal online presence without unnecessary frameworks or dependencies.
 
-## 🚀 Vorschau
+Built and maintained by **Cuubiq**.
 
-![Preview deiner Card](./assets/preview.png)
+**Website:** [cuubiq.cc](https://cuubiq.cc/?utm_source=chatgpt.com)
 
----
+## Preview
 
-## ✨ Features
+![Business XCard Preview](./assets/preview.png)
 
-- 🎨 Modernes, schlichtes Design  
-- ⚡ 100 % HTML & CSS – kein Framework nötig  
-- 📱 Responsive & leicht  
-- 💬 Einfach anpassbar (Name, Farben, Icons, Text)  
-- 🌑 Dark Design für angenehme Darstellung  
+## Features
 
----
+* Modern and minimal design
+* Pure HTML and CSS
+* No frameworks or dependencies
+* Fully responsive
+* Lightweight and fast
+* Easy to customize
+* Dark interface
+* Customizable name, text, colors and icons
+* Suitable for personal profiles, portfolios and digital business cards
 
-## 🛠️ Verwendung
+## Installation
 
-1. **Repository klonen**
-   ```bash
-   git clone https://github.com/verovsn/Business-XCard.git
-Datei öffnen
-Öffne einfach index.html im Browser – fertig ✅
+Clone the repository:
 
-Anpassen
+```bash
+git clone https://github.com/verovsn/Business-XCard.git
+```
 
-Ändere Name, Text & Icons in index.html
+Navigate into the project directory:
 
-Passe Farben & Hintergründe in style.css an
+```bash
+cd Business-XCard
+```
 
-🎨 Beispiel: Hintergrundfarbe ändern
+Open `index.html` in your browser.
 
- ``body {
+No build process or package installation is required.
+
+## Customization
+
+Business XCard is intentionally simple to modify.
+
+### Personal Information
+
+Open `index.html` and update your:
+
+* Name
+* Description
+* Links
+* Social profiles
+* Icons
+* Additional information
+
+### Styling
+
+Customize the appearance in `style.css`.
+
+For example, you can change the background:
+
+```css
+body {
     background: linear-gradient(160deg, #1e1e2e, #0f172a);
-} ``
+}
+```
 
-👤 Über den Entwickler
-VErOVSN
+You can also modify the typography, spacing, borders, gradients and other visual elements to match your own brand.
 
-Peak Developer • Creator • Visionär
+## Project Structure
 
-🌍 Germany
-💻 github.com/verovsn
-https://verovision.eu/
+```text
+Business-XCard/
+├── index.html
+├── style.css
+├── assets/
+│   └── preview.png
+└── ...
+```
 
-💬 „Wieso stalkst du mich eigentlich?“ 😎
+## Use Cases
 
-## 📜 Lizenz
-Dieses Projekt steht unter der MIT License.
-Du darfst es frei verwenden, verändern und teilen — bitte gib Credits an VErOVSN an, wenn du es nutzt.
+Business XCard can be used as:
 
-🧠 „Simplicity ist die höchste Form von Eleganz.“ – VErOVSN
+* A personal digital business card
+* A developer profile
+* A portfolio landing page
+* A social links page
+* A personal homepage
+* A simple professional profile
+
+## Author
+
+**Cuubiq**
+
+Web: [cuubiq.cc](https://cuubiq.cc/?utm_source=chatgpt.com)
+
+GitHub: [@cuubiq](https://github.com/cuubiq?utm_source=chatgpt.com)
+
+## License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, distribute, and build upon this project in accordance with the license terms.
+
+## Contributing
+
+Contributions are welcome.
+
+If you have an idea, improvement, or bug fix, feel free to open an issue or submit a pull request.
+
+## Feedback
+
+Found an issue or have an idea for the project?
+
+Open an issue and share your feedback. Contributions and improvements are always welcome.
